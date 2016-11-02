@@ -1,4 +1,11 @@
-Content/StarterContent/
+Content/StarterContent/Audio/
+Content/StarterContent/HDRI/
+Content/StarterContent/Materials/
+Content/StarterContent/Particles/
+Content/StarterContent/Shapes/
+Content/StarterContent/Textures/
+
+.vs/
 Intermediate/
 Binaries/
 Build/
@@ -6,3 +13,4 @@ DerivedDataCache/
 Escape_4125.VC.db
 Saved/
 Escape_4125.VC.VC.opendb
+Content/StarterContent/Maps/
