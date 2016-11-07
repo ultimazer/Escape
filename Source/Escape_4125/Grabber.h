@@ -41,4 +41,8 @@ private:
 	void SetupInputComponent();
 	//Return hit for first physics body in reach
 	const FHitResult GetFirstPhysicsBodyInReach();
+	//Return current end of reach line
+	FVector GetReachLineStart();
+	//Return current end of reach line
+	FVector GetReachLineEnd();
 };
